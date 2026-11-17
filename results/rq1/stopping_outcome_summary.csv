@@ -1,0 +1,6 @@
+analysis_dimension;category;conversation_count;percentage_of_40;definition
+outcome_agreement;unanimous_outcome;26;65.0;All seven annotators agreed on the stopping outcome (Success/Failure).
+outcome_agreement;nonunanimous_outcome;14;35.0;At least two annotators differed in stopping outcome.
+joint_agreement;unanimous_exact_row_and_outcome;17;42.5;All seven annotators agreed on both the exact stopping row and outcome.
+stopping_row_agreement;unanimous_exact_row;21;52.5;All seven annotators selected the same stopping row, irrespective of outcome.
+stopping_row_agreement;near_agreement_5_to_6_votes;8;20.0;Five or six annotators selected the same stopping row.

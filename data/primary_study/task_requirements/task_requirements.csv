@@ -1,0 +1,8 @@
+task_id,task_name,original_requirement
+T01,Fibonacci Game,Write a mathematical game of Fibonacci
+T02,Caesar Cipher Game,Develop a game using Caesar Cipher
+T03,Anagram Game,Write a program to create a Anagram Game
+T04,Palindrome,Write a complete program that checks whether a given integer is a palindrome.
+T05,Two Sum,"Write a program to return indices of the two numbers in the array such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice.You can return the answer in any order."
+T06,Linked List Sum,"You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Write a complete program to add the two numbers and return the sum as a linked list also in reverse order. You may assume the two numbers do not contain any leading zero, except the number 0 itself."
+T07,Median of Two Sorted Arrays,"Given two sorted arrays nums1 and nums2 of size m and n respectively, write a complete program to return the median of the two sorted arrays. The overall run time complexity should be O(log (m+n))."

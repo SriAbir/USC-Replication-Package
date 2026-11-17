@@ -1,0 +1,20 @@
+pair_id;designer_model;programmer_model;designer_ollama_tag;programmer_ollama_tag
+P01;DeepSeek-R1 (7B);DeepSeek-R1 (70B);deepseek-r1:7b;deepseek-r1:70b
+P02;Qwen3Coder (30B);Qwen3Coder (30B);qwen3-coder:30b;qwen3-coder:30b
+P03;DeepSeekCoder (33B);DeepSeekCoder (33B);deepseek-coder:33b;deepseek-coder:33b
+P04;DeepSeek-R1 (32B);DeepSeek-R1 (32B);deepseek-r1:32b;deepseek-r1:32b
+P05;CodeLlama (13B);Qwen3 (30B);codellama:13b;qwen3:30b
+P06;Qwen3Coder (30B);CodeLlama (13B);qwen3-coder:30b;codellama:13b
+P07;Llama 3.3 (70B);DeepSeekCoder (33B);llama3.3:70b;deepseek-coder:33b
+P08;CodeLlama (34B);CodeLlama (34B);codellama:34b;codellama:34b
+P09;GPT-5.1;GPT-5.1;;
+P10;DeepSeek-R1 (70B);DeepSeek-R1 (70B);deepseek-r1:70b;deepseek-r1:70b
+P11;DeepSeek-R1 (32B);DeepSeek-R1 (7B);deepseek-r1:32b;deepseek-r1:7b
+P12;DeepSeekCoder (33B);Qwen3 (30B);deepseek-coder:33b;qwen3:30b
+P13;DeepSeek-R1 (7B);DeepSeek-R1 (7B);deepseek-r1:7b;deepseek-r1:7b
+P14;DeepSeek-R1 (70B);Qwen3Coder (30B);deepseek-r1:70b;qwen3-coder:30b
+P15;DeepSeek-R1 (7B);DeepSeek-R1 (32B);deepseek-r1:7b;deepseek-r1:32b
+P16;CodeLlama (13B);DeepSeekCoder (33B);codellama:13b;deepseek-coder:33b
+P17;GPT-4o;GPT-4o;;
+P18;DeepSeek-R1 (70B);DeepSeek-R1 (32B);deepseek-r1:70b;deepseek-r1:32b
+P19;DeepSeek-R1 (32B);DeepSeek-R1 (70B);deepseek-r1:32b;deepseek-r1:70b

@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Temporary files
+*.tmp
+*.bak
+~$*.xlsx
+
+# Logs generated during local execution
+*.log.bak
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example

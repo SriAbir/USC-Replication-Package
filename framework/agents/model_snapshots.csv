@@ -1,0 +1,10 @@
+paper_label,ollama_tag,model_digest,developer,parameters,general_architecture,quantization
+DeepSeek-R1 (7B),deepseek-r1:7b,755ced02ce7b,DeepSeek,7.62B,qwen2,Q4_K_M
+DeepSeek-R1 (32B),deepseek-r1:32b,edba8017331d,DeepSeek,32.8B,qwen2,Q4_K_M
+DeepSeek-R1 (70B),deepseek-r1:70b,d37b54d01a76,DeepSeek,70.6B,llama,Q4_K_M
+DeepSeekCoder (33B),deepseek-coder:33b,acec7c0b0fd9,DeepSeek,33.3B,llama,Q4_0
+Qwen3Coder (30B),qwen3-coder:30b,06c1097efce0,Qwen / Alibaba,30.5B,qwen3moe,Q4_K_M
+CodeLlama (13B),codellama:13b,9f438cb9cd58,Meta,13B,llama,Q4_0
+CodeLlama (34B),codellama:34b,685be00e1532,Meta,33.7B,llama,Q4_0
+Qwen3 (30B),qwen3:30b,ad815644918f,Qwen / Alibaba,30.5B,qwen3moe,Q4_K_M
+Llama 3.3 (70B),llama3.3:70b,a6eb4748fd29,Meta,70.6B,llama,Q4_K_M

@@ -1,0 +1,145 @@
+setting;annotation_row;conversation;file;metric;stop_rows;stop_region_start;stop_region_end;peak_row_earliest;peak_value;n_tied_max_rows;n_metric_rows;distance_rows;within_2_rows;within_5_rows;within_10_rows
+strict;2;Fibonacci_deepseek-r17b_deepseek-r170b_math_game_fibonacci_w_comp_compiled;new_results_deepseek7_70.xlsx;BERTScore_F1;32;32;32;2;0.8674854636192322;1;179;30;0;0;0
+strict;2;Fibonacci_deepseek-r17b_deepseek-r170b_math_game_fibonacci_w_comp_compiled;new_results_deepseek7_70.xlsx;Raw_SBERT;32;32;32;2;0.7945785522460938;1;179;30;0;0;0
+strict;2;Fibonacci_deepseek-r17b_deepseek-r170b_math_game_fibonacci_w_comp_compiled;new_results_deepseek7_70.xlsx;TaskAware_SBERT;32;32;32;80;0.8127627372741699;1;179;48;0;0;0
+majority;2;Fibonacci_deepseek-r17b_deepseek-r170b_math_game_fibonacci_w_comp_compiled;new_results_deepseek7_70.xlsx;BERTScore_F1;32;32;32;2;0.8674854636192322;1;179;30;0;0;0
+majority;2;Fibonacci_deepseek-r17b_deepseek-r170b_math_game_fibonacci_w_comp_compiled;new_results_deepseek7_70.xlsx;Raw_SBERT;32;32;32;2;0.7945785522460938;1;179;30;0;0;0
+majority;2;Fibonacci_deepseek-r17b_deepseek-r170b_math_game_fibonacci_w_comp_compiled;new_results_deepseek7_70.xlsx;TaskAware_SBERT;32;32;32;80;0.8127627372741699;1;179;48;0;0;0
+strict;3;CaesarCipher_codellama34codellama34_compiled;codellama34codellama34_compiled_newresults(1).xlsx;BERTScore_F1;4;4;4;2;0.8563887476921082;1;203;2;1;1;1
+strict;3;CaesarCipher_codellama34codellama34_compiled;codellama34codellama34_compiled_newresults(1).xlsx;Raw_SBERT;4;4;4;2;0.8508840799331665;1;203;2;1;1;1
+strict;3;CaesarCipher_codellama34codellama34_compiled;codellama34codellama34_compiled_newresults(1).xlsx;TaskAware_SBERT;4;4;4;2;0.8294597864151001;1;203;2;1;1;1
+majority;3;CaesarCipher_codellama34codellama34_compiled;codellama34codellama34_compiled_newresults(1).xlsx;BERTScore_F1;4;4;4;2;0.8563887476921082;1;203;2;1;1;1
+majority;3;CaesarCipher_codellama34codellama34_compiled;codellama34codellama34_compiled_newresults(1).xlsx;Raw_SBERT;4;4;4;2;0.8508840799331665;1;203;2;1;1;1
+majority;3;CaesarCipher_codellama34codellama34_compiled;codellama34codellama34_compiled_newresults(1).xlsx;TaskAware_SBERT;4;4;4;2;0.8294597864151001;1;203;2;1;1;1
+strict;6;QwencoderQwencoder30B-Fibonacci;done_qwe3qwen3_compiled_new_results.xlsx;BERTScore_F1;4;4;4;2;0.8675005435943604;1;202;2;1;1;1
+strict;6;QwencoderQwencoder30B-Fibonacci;done_qwe3qwen3_compiled_new_results.xlsx;Raw_SBERT;4;4;4;2;0.8072835206985474;1;202;2;1;1;1
+strict;6;QwencoderQwencoder30B-Fibonacci;done_qwe3qwen3_compiled_new_results.xlsx;TaskAware_SBERT;4;4;4;2;0.7737287282943726;1;202;2;1;1;1
+majority;6;QwencoderQwencoder30B-Fibonacci;done_qwe3qwen3_compiled_new_results.xlsx;BERTScore_F1;4;4;4;2;0.8675005435943604;1;202;2;1;1;1
+majority;6;QwencoderQwencoder30B-Fibonacci;done_qwe3qwen3_compiled_new_results.xlsx;Raw_SBERT;4;4;4;2;0.8072835206985474;1;202;2;1;1;1
+majority;6;QwencoderQwencoder30B-Fibonacci;done_qwe3qwen3_compiled_new_results.xlsx;TaskAware_SBERT;4;4;4;2;0.7737287282943726;1;202;2;1;1;1
+strict;7;GPT-5_1_GPT_5-1-CaesarCipher;conversation_result_GPT-5_1_no_compiler_newresults(1).xlsx;BERTScore_F1;4,6;4;6;2;0.8563887476921082;1;103;2;1;1;1
+strict;7;GPT-5_1_GPT_5-1-CaesarCipher;conversation_result_GPT-5_1_no_compiler_newresults(1).xlsx;Raw_SBERT;4,6;4;6;2;0.8508840799331665;1;103;2;1;1;1
+strict;7;GPT-5_1_GPT_5-1-CaesarCipher;conversation_result_GPT-5_1_no_compiler_newresults(1).xlsx;TaskAware_SBERT;4,6;4;6;36;0.8391174674034119;1;103;30;0;0;0
+majority;7;GPT-5_1_GPT_5-1-CaesarCipher;conversation_result_GPT-5_1_no_compiler_newresults(1).xlsx;BERTScore_F1;4;4;4;2;0.8563887476921082;1;103;2;1;1;1
+majority;7;GPT-5_1_GPT_5-1-CaesarCipher;conversation_result_GPT-5_1_no_compiler_newresults(1).xlsx;Raw_SBERT;4;4;4;2;0.8508840799331665;1;103;2;1;1;1
+majority;7;GPT-5_1_GPT_5-1-CaesarCipher;conversation_result_GPT-5_1_no_compiler_newresults(1).xlsx;TaskAware_SBERT;4;4;4;36;0.8391174674034119;1;103;32;0;0;0
+strict;8; fibonacci_deepseekcoderdeepseekcoder_compiled.xlsx;done_deepseekcoderdeepseekcoder_compiled_new_results.xlsx;BERTScore_F1;4;4;4;2;0.8674854636192322;1;203;2;1;1;1
+strict;8; fibonacci_deepseekcoderdeepseekcoder_compiled.xlsx;done_deepseekcoderdeepseekcoder_compiled_new_results.xlsx;Raw_SBERT;4;4;4;2;0.7945785522460938;1;203;2;1;1;1
+strict;8; fibonacci_deepseekcoderdeepseekcoder_compiled.xlsx;done_deepseekcoderdeepseekcoder_compiled_new_results.xlsx;TaskAware_SBERT;4;4;4;2;0.7760010361671448;1;203;2;1;1;1
+majority;8; fibonacci_deepseekcoderdeepseekcoder_compiled.xlsx;done_deepseekcoderdeepseekcoder_compiled_new_results.xlsx;BERTScore_F1;4;4;4;2;0.8674854636192322;1;203;2;1;1;1
+majority;8; fibonacci_deepseekcoderdeepseekcoder_compiled.xlsx;done_deepseekcoderdeepseekcoder_compiled_new_results.xlsx;Raw_SBERT;4;4;4;2;0.7945785522460938;1;203;2;1;1;1
+majority;8; fibonacci_deepseekcoderdeepseekcoder_compiled.xlsx;done_deepseekcoderdeepseekcoder_compiled_new_results.xlsx;TaskAware_SBERT;4;4;4;2;0.7760010361671448;1;203;2;1;1;1
+strict;9; fibonacci_deepseek32bdeepseek32b_compiled.xlsx;deepseek32bdeepseek32b_compiled_new_results.xlsx;BERTScore_F1;4;4;4;1;0.8539038300514221;1;203;3;0;1;1
+strict;9; fibonacci_deepseek32bdeepseek32b_compiled.xlsx;deepseek32bdeepseek32b_compiled_new_results.xlsx;Raw_SBERT;4;4;4;36;0.8066056966781616;1;203;32;0;0;0
+strict;9; fibonacci_deepseek32bdeepseek32b_compiled.xlsx;deepseek32bdeepseek32b_compiled_new_results.xlsx;TaskAware_SBERT;4;4;4;3;0.7951128482818604;1;203;1;1;1;1
+majority;9; fibonacci_deepseek32bdeepseek32b_compiled.xlsx;deepseek32bdeepseek32b_compiled_new_results.xlsx;BERTScore_F1;4;4;4;1;0.8539038300514221;1;203;3;0;1;1
+majority;9; fibonacci_deepseek32bdeepseek32b_compiled.xlsx;deepseek32bdeepseek32b_compiled_new_results.xlsx;Raw_SBERT;4;4;4;36;0.8066056966781616;1;203;32;0;0;0
+majority;9; fibonacci_deepseek32bdeepseek32b_compiled.xlsx;deepseek32bdeepseek32b_compiled_new_results.xlsx;TaskAware_SBERT;4;4;4;3;0.7951128482818604;1;203;1;1;1;1
+majority;10;fibonacci_codellama13qwe3_compiled.xlsx;done_codellama13qwe3_compiled_newresults.xlsx;BERTScore_F1;4;4;4;2;0.8674854636192322;1;182;2;1;1;1
+majority;10;fibonacci_codellama13qwe3_compiled.xlsx;done_codellama13qwe3_compiled_newresults.xlsx;Raw_SBERT;4;4;4;2;0.7945785522460938;1;182;2;1;1;1
+majority;10;fibonacci_codellama13qwe3_compiled.xlsx;done_codellama13qwe3_compiled_newresults.xlsx;TaskAware_SBERT;4;4;4;2;0.7760010361671448;1;182;2;1;1;1
+majority;11;fibonacci_ QwenCoder30BCodeLlama13B_compiled.xlsx;Done_QwenCoder30BCodeLlama13B_compiled_newresults.xlsx;BERTScore_F1;4;4;4;2;0.8674854636192322;1;203;2;1;1;1
+majority;11;fibonacci_ QwenCoder30BCodeLlama13B_compiled.xlsx;Done_QwenCoder30BCodeLlama13B_compiled_newresults.xlsx;Raw_SBERT;4;4;4;2;0.7945785522460938;1;203;2;1;1;1
+majority;11;fibonacci_ QwenCoder30BCodeLlama13B_compiled.xlsx;Done_QwenCoder30BCodeLlama13B_compiled_newresults.xlsx;TaskAware_SBERT;4;4;4;2;0.7760010361671448;1;203;2;1;1;1
+majority;12;llama3.370b_deepseek-coder33b_math_game_fibonacci_w_comp_compiled.xlsx;done_llama3.370b_deepseek-coder33b_math_game_fibonacci_w_comp_compiled_newresults.xlsx;BERTScore_F1;4;4;4;2;0.8674854636192322;1;203;2;1;1;1
+majority;12;llama3.370b_deepseek-coder33b_math_game_fibonacci_w_comp_compiled.xlsx;done_llama3.370b_deepseek-coder33b_math_game_fibonacci_w_comp_compiled_newresults.xlsx;Raw_SBERT;4;4;4;2;0.7945785522460938;1;203;2;1;1;1
+majority;12;llama3.370b_deepseek-coder33b_math_game_fibonacci_w_comp_compiled.xlsx;done_llama3.370b_deepseek-coder33b_math_game_fibonacci_w_comp_compiled_newresults.xlsx;TaskAware_SBERT;4;4;4;2;0.7760010361671448;1;203;2;1;1;1
+majority;13; fibonacci_qwencoderCodellama.xlsx;qwencoderCodellama_compiled_new_results.xlsx;BERTScore_F1;4;4;4;2;0.8674854636192322;1;203;2;1;1;1
+majority;13; fibonacci_qwencoderCodellama.xlsx;qwencoderCodellama_compiled_new_results.xlsx;Raw_SBERT;4;4;4;2;0.7945785522460938;1;203;2;1;1;1
+majority;13; fibonacci_qwencoderCodellama.xlsx;qwencoderCodellama_compiled_new_results.xlsx;TaskAware_SBERT;4;4;4;2;0.7760010361671448;1;203;2;1;1;1
+majority;14;deepseek-r17b_deepseek-r170b_math_game_fibonacci_without_comp.xlsx;deepseek-r17b_deepseek-r170b_math_game_fibonacci_without_comp_compiled_newresults.xlsx;BERTScore_F1;4;4;4;2;0.8674854636192322;1;203;2;1;1;1
+majority;14;deepseek-r17b_deepseek-r170b_math_game_fibonacci_without_comp.xlsx;deepseek-r17b_deepseek-r170b_math_game_fibonacci_without_comp_compiled_newresults.xlsx;Raw_SBERT;4;4;4;80;0.8071521520614624;1;203;76;0;0;0
+majority;14;deepseek-r17b_deepseek-r170b_math_game_fibonacci_without_comp.xlsx;deepseek-r17b_deepseek-r170b_math_game_fibonacci_without_comp_compiled_newresults.xlsx;TaskAware_SBERT;4;4;4;128;0.8092330098152161;1;203;124;0;0;0
+strict;15;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp.xlsx;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp_compiled_newresults(1).xlsx;BERTScore_F1;4;4;4;2;0.8563887476921082;1;203;2;1;1;1
+strict;15;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp.xlsx;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp_compiled_newresults(1).xlsx;Raw_SBERT;4;4;4;2;0.8508840799331665;1;203;2;1;1;1
+strict;15;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp.xlsx;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp_compiled_newresults(1).xlsx;TaskAware_SBERT;4;4;4;6;0.8324010372161865;1;203;2;1;1;1
+majority;15;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp.xlsx;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp_compiled_newresults(1).xlsx;BERTScore_F1;4;4;4;2;0.8563887476921082;1;203;2;1;1;1
+majority;15;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp.xlsx;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp_compiled_newresults(1).xlsx;Raw_SBERT;4;4;4;2;0.8508840799331665;1;203;2;1;1;1
+majority;15;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp.xlsx;deepseek-r170b_deepseek-r170b_Caesar_Cipher_new_w_comp_compiled_newresults(1).xlsx;TaskAware_SBERT;4;4;4;6;0.8324010372161865;1;203;2;1;1;1
+strict;16; Caesarcipher_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(1).xlsx;BERTScore_F1;4;4;4;2;0.8563887476921082;1;201;2;1;1;1
+strict;16; Caesarcipher_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(1).xlsx;Raw_SBERT;4;4;4;2;0.8508840799331665;1;201;2;1;1;1
+strict;16; Caesarcipher_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(1).xlsx;TaskAware_SBERT;4;4;4;65;0.8481550812721252;1;201;61;0;0;0
+majority;16; Caesarcipher_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(1).xlsx;BERTScore_F1;4;4;4;2;0.8563887476921082;1;201;2;1;1;1
+majority;16; Caesarcipher_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(1).xlsx;Raw_SBERT;4;4;4;2;0.8508840799331665;1;201;2;1;1;1
+majority;16; Caesarcipher_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(1).xlsx;TaskAware_SBERT;4;4;4;65;0.8481550812721252;1;201;61;0;0;0
+majority;17;CaesarCipherWithCompilerdeepseek32B7B.xlsx;deepseek32B7B_newresults(1).xlsx;BERTScore_F1;32;32;32;2;0.8563887476921082;1;203;30;0;0;0
+majority;17;CaesarCipherWithCompilerdeepseek32B7B.xlsx;deepseek32B7B_newresults(1).xlsx;Raw_SBERT;32;32;32;2;0.8508840799331665;1;203;30;0;0;0
+majority;17;CaesarCipherWithCompilerdeepseek32B7B.xlsx;deepseek32B7B_newresults(1).xlsx;TaskAware_SBERT;32;32;32;2;0.8294597864151001;1;203;30;0;0;0
+majority;20;Anagram_ qwen3coderqwen3coder_withcompiler__B.xlsx;qwen3coderqwen3coder_newresults(1).xlsx;BERTScore_F1;4;4;4;2;0.8567625880241394;1;196;2;1;1;1
+majority;20;Anagram_ qwen3coderqwen3coder_withcompiler__B.xlsx;qwen3coderqwen3coder_newresults(1).xlsx;Raw_SBERT;4;4;4;2;0.7389322519302368;1;196;2;1;1;1
+majority;20;Anagram_ qwen3coderqwen3coder_withcompiler__B.xlsx;qwen3coderqwen3coder_newresults(1).xlsx;TaskAware_SBERT;4;4;4;28;0.8135473728179932;1;196;24;0;0;0
+majority;23;Anagram_deepseek7Bdeepseek32B_withcompiler__B.xlsx;deepseek7B32B_withcompiler__B_newresults(1).xlsx;BERTScore_F1;4;4;4;2;0.8567625880241394;1;203;2;1;1;1
+majority;23;Anagram_deepseek7Bdeepseek32B_withcompiler__B.xlsx;deepseek7B32B_withcompiler__B_newresults(1).xlsx;Raw_SBERT;4;4;4;2;0.7389322519302368;1;203;2;1;1;1
+majority;23;Anagram_deepseek7Bdeepseek32B_withcompiler__B.xlsx;deepseek7B32B_withcompiler__B_newresults(1).xlsx;TaskAware_SBERT;4;4;4;10;0.817004382610321;2;203;6;0;0;1
+majority;24;Anagram_codellama13deepseekcoder_withcompiler__B.xlsx;codellama13deepseekcoder_withcompiler__B_newresults(1).xlsx;BERTScore_F1;4;4;4;2;0.8567625880241394;1;203;2;1;1;1
+majority;24;Anagram_codellama13deepseekcoder_withcompiler__B.xlsx;codellama13deepseekcoder_withcompiler__B_newresults(1).xlsx;Raw_SBERT;4;4;4;2;0.7389322519302368;1;203;2;1;1;1
+majority;24;Anagram_codellama13deepseekcoder_withcompiler__B.xlsx;codellama13deepseekcoder_withcompiler__B_newresults(1).xlsx;TaskAware_SBERT;4;4;4;2;0.7765989303588867;1;203;2;1;1;1
+strict;26;Palindrome_deepseekcoderdeepseekcoder_compiled.xlsx;deepseekcoderdeepseekcoder_compiled_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9088146090507507;1;203;2;1;1;1
+strict;26;Palindrome_deepseekcoderdeepseekcoder_compiled.xlsx;deepseekcoderdeepseekcoder_compiled_newresults.xlsx;Raw_SBERT;4;4;4;93;0.8618407249450684;4;203;89;0;0;0
+strict;26;Palindrome_deepseekcoderdeepseekcoder_compiled.xlsx;deepseekcoderdeepseekcoder_compiled_newresults.xlsx;TaskAware_SBERT;4;4;4;170;0.8785058259963989;4;203;166;0;0;0
+majority;26;Palindrome_deepseekcoderdeepseekcoder_compiled.xlsx;deepseekcoderdeepseekcoder_compiled_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9088146090507507;1;203;2;1;1;1
+majority;26;Palindrome_deepseekcoderdeepseekcoder_compiled.xlsx;deepseekcoderdeepseekcoder_compiled_newresults.xlsx;Raw_SBERT;4;4;4;93;0.8618407249450684;4;203;89;0;0;0
+majority;26;Palindrome_deepseekcoderdeepseekcoder_compiled.xlsx;deepseekcoderdeepseekcoder_compiled_newresults.xlsx;TaskAware_SBERT;4;4;4;170;0.8785058259963989;4;203;166;0;0;0
+strict;27;Palindrome_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(2).xlsx;BERTScore_F1;4;4;4;2;0.9088146090507507;1;203;2;1;1;1
+strict;27;Palindrome_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(2).xlsx;Raw_SBERT;4;4;4;35;0.8519319295883179;85;203;31;0;0;0
+strict;27;Palindrome_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(2).xlsx;TaskAware_SBERT;4;4;4;12;0.862678050994873;1;203;8;0;0;1
+majority;27;Palindrome_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(2).xlsx;BERTScore_F1;4;4;4;2;0.9088146090507507;1;203;2;1;1;1
+majority;27;Palindrome_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(2).xlsx;Raw_SBERT;4;4;4;35;0.8519319295883179;85;203;31;0;0;0
+majority;27;Palindrome_qwen3coderqwen3coder_compiled.xlsx;qwen3coderqwen3coder_compiled_newresults(2).xlsx;TaskAware_SBERT;4;4;4;12;0.862678050994873;1;203;8;0;0;1
+majority;29;palindrome_Deepseek32BDeepseek7B_withoutcompiler.xlsx;Deepseek32B7B_newresults(2).xlsx;BERTScore_F1;16;16;16;2;0.9088146090507507;1;203;14;0;0;0
+majority;29;palindrome_Deepseek32BDeepseek7B_withoutcompiler.xlsx;Deepseek32B7B_newresults(2).xlsx;Raw_SBERT;16;16;16;183;0.8999346494674683;1;203;167;0;0;0
+majority;29;palindrome_Deepseek32BDeepseek7B_withoutcompiler.xlsx;Deepseek32B7B_newresults(2).xlsx;TaskAware_SBERT;16;16;16;115;0.8967255353927612;1;203;99;0;0;0
+majority;30;Palindrome_withoutcompiler_codellama13qwen3.xlsx;codellama13qwen3_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9088146090507507;1;202;2;1;1;1
+majority;30;Palindrome_withoutcompiler_codellama13qwen3.xlsx;codellama13qwen3_newresults.xlsx;Raw_SBERT;4;4;4;7;0.8239963054656982;1;202;3;0;1;1
+majority;30;Palindrome_withoutcompiler_codellama13qwen3.xlsx;codellama13qwen3_newresults.xlsx;TaskAware_SBERT;4;4;4;4;0.8243321776390076;1;202;0;1;1;1
+strict;31;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_compiled.xlsx;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9088146090507507;1;202;2;1;1;1
+strict;31;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_compiled.xlsx;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;133;0.8931000232696533;1;202;129;0;0;0
+strict;31;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_compiled.xlsx;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;165;0.8876179456710815;2;202;161;0;0;0
+majority;31;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_compiled.xlsx;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9088146090507507;1;202;2;1;1;1
+majority;31;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_compiled.xlsx;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;133;0.8931000232696533;1;202;129;0;0;0
+majority;31;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_compiled.xlsx;deepseek-r170b_deepseek-r132b_palindrome_new_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;165;0.8876179456710815;2;202;161;0;0;0
+strict;33;Palindrome_GPT-4o-GPT-4o.xlsx;conversation_result_GPT-4o-compiler-palindrome_newresults.xlsx;BERTScore_F1;4,6;4;6;2;0.9088146090507507;1;103;2;1;1;1
+strict;33;Palindrome_GPT-4o-GPT-4o.xlsx;conversation_result_GPT-4o-compiler-palindrome_newresults.xlsx;Raw_SBERT;4,6;4;6;3;0.8232656717300415;1;103;1;1;1;1
+strict;33;Palindrome_GPT-4o-GPT-4o.xlsx;conversation_result_GPT-4o-compiler-palindrome_newresults.xlsx;TaskAware_SBERT;4,6;4;6;3;0.8357231020927429;1;103;1;1;1;1
+strict;34;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.8814446330070496;1;203;2;1;1;1
+strict;34;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;2;0.8509557247161865;1;203;2;1;1;1
+strict;34;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;18;0.8762000799179077;4;203;14;0;0;0
+majority;34;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.8814446330070496;1;203;2;1;1;1
+majority;34;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;2;0.8509557247161865;1;203;2;1;1;1
+majority;34;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;deepseek-coder33b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;18;0.8762000799179077;4;203;14;0;0;0
+strict;35;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp.xlsx;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp_newresults.xlsx;BERTScore_F1;5;5;5;2;0.8814446330070496;1;202;3;0;1;1
+strict;35;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp.xlsx;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp_newresults.xlsx;Raw_SBERT;5;5;5;141;0.8797038793563843;1;202;136;0;0;0
+strict;35;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp.xlsx;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp_newresults.xlsx;TaskAware_SBERT;5;5;5;145;0.8946588039398193;1;202;140;0;0;0
+majority;35;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp.xlsx;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp_newresults.xlsx;BERTScore_F1;5;5;5;2;0.8814446330070496;1;202;3;0;1;1
+majority;35;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp.xlsx;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp_newresults.xlsx;Raw_SBERT;5;5;5;141;0.8797038793563843;1;202;136;0;0;0
+majority;35;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp.xlsx;deepseek-r132b_deepseek-r170b_median_sorted_array_w_comp_newresults.xlsx;TaskAware_SBERT;5;5;5;145;0.8946588039398193;1;202;140;0;0;0
+strict;36;codellama13b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;codellama13b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.8814446330070496;1;203;2;1;1;1
+strict;36;codellama13b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;codellama13b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;2;0.8509557247161865;1;203;2;1;1;1
+strict;36;codellama13b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;codellama13b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;194;0.8782832622528076;1;203;190;0;0;0
+majority;36;codellama13b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;codellama13b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.8814446330070496;1;203;2;1;1;1
+majority;36;codellama13b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;codellama13b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;2;0.8509557247161865;1;203;2;1;1;1
+majority;36;codellama13b_deepseek-coder33b_median_sorted_array_w_comp.xlsx;codellama13b_deepseek-coder33b_median_sorted_array_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;194;0.8782832622528076;1;203;190;0;0;0
+strict;37;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp.xlsx;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9004783630371094;1;203;2;1;1;1
+strict;37;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp.xlsx;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;2;0.8501616716384888;1;203;2;1;1;1
+strict;37;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp.xlsx;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;2;0.836838960647583;1;203;2;1;1;1
+majority;37;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp.xlsx;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9004783630371094;1;203;2;1;1;1
+majority;37;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp.xlsx;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;2;0.8501616716384888;1;203;2;1;1;1
+majority;37;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp.xlsx;qwen3-coder30b_qwen3-coder30b_linked_lists_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;2;0.836838960647583;1;203;2;1;1;1
+strict;38;deepseek-coder33b_qwen330b_linked_lists_w_comp;deepseek-coder33b_qwen330b_linked_lists_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9004783630371094;1;203;2;1;1;1
+strict;38;deepseek-coder33b_qwen330b_linked_lists_w_comp;deepseek-coder33b_qwen330b_linked_lists_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;2;0.8501616716384888;1;203;2;1;1;1
+strict;38;deepseek-coder33b_qwen330b_linked_lists_w_comp;deepseek-coder33b_qwen330b_linked_lists_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;4;0.8457561731338501;1;203;0;1;1;1
+majority;38;deepseek-coder33b_qwen330b_linked_lists_w_comp;deepseek-coder33b_qwen330b_linked_lists_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9004783630371094;1;203;2;1;1;1
+majority;38;deepseek-coder33b_qwen330b_linked_lists_w_comp;deepseek-coder33b_qwen330b_linked_lists_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;2;0.8501616716384888;1;203;2;1;1;1
+majority;38;deepseek-coder33b_qwen330b_linked_lists_w_comp;deepseek-coder33b_qwen330b_linked_lists_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;4;0.8457561731338501;1;203;0;1;1;1
+strict;39;deepseek-r170b_deepseek-r170b_linked_lists_w_comp;deepseek-r170b_deepseek-r170b_linked_lists_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9004783630371094;1;183;2;1;1;1
+strict;39;deepseek-r170b_deepseek-r170b_linked_lists_w_comp;deepseek-r170b_deepseek-r170b_linked_lists_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;2;0.8501616716384888;1;183;2;1;1;1
+strict;39;deepseek-r170b_deepseek-r170b_linked_lists_w_comp;deepseek-r170b_deepseek-r170b_linked_lists_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;2;0.836838960647583;1;183;2;1;1;1
+majority;39;deepseek-r170b_deepseek-r170b_linked_lists_w_comp;deepseek-r170b_deepseek-r170b_linked_lists_w_comp_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9004783630371094;1;183;2;1;1;1
+majority;39;deepseek-r170b_deepseek-r170b_linked_lists_w_comp;deepseek-r170b_deepseek-r170b_linked_lists_w_comp_newresults.xlsx;Raw_SBERT;4;4;4;2;0.8501616716384888;1;183;2;1;1;1
+majority;39;deepseek-r170b_deepseek-r170b_linked_lists_w_comp;deepseek-r170b_deepseek-r170b_linked_lists_w_comp_newresults.xlsx;TaskAware_SBERT;4;4;4;2;0.836838960647583;1;183;2;1;1;1
+strict;40;qwen3-coder30b_qwen3-coder30b_add_arrays_elem_w_comp;Copy of qwen3coderqwen3coder_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9000245332717896;1;203;2;1;1;1
+strict;40;qwen3-coder30b_qwen3-coder30b_add_arrays_elem_w_comp;Copy of qwen3coderqwen3coder_newresults.xlsx;Raw_SBERT;4;4;4;2;0.7010055184364319;1;203;2;1;1;1
+strict;40;qwen3-coder30b_qwen3-coder30b_add_arrays_elem_w_comp;Copy of qwen3coderqwen3coder_newresults.xlsx;TaskAware_SBERT;4;4;4;30;0.8230441808700562;1;203;26;0;0;0
+majority;40;qwen3-coder30b_qwen3-coder30b_add_arrays_elem_w_comp;Copy of qwen3coderqwen3coder_newresults.xlsx;BERTScore_F1;4;4;4;2;0.9000245332717896;1;203;2;1;1;1
+majority;40;qwen3-coder30b_qwen3-coder30b_add_arrays_elem_w_comp;Copy of qwen3coderqwen3coder_newresults.xlsx;Raw_SBERT;4;4;4;2;0.7010055184364319;1;203;2;1;1;1
+majority;40;qwen3-coder30b_qwen3-coder30b_add_arrays_elem_w_comp;Copy of qwen3coderqwen3coder_newresults.xlsx;TaskAware_SBERT;4;4;4;30;0.8230441808700562;1;203;26;0;0;0

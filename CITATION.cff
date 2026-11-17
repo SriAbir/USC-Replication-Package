@@ -1,0 +1,30 @@
+
+cff-version: 1.2.0
+message: >-
+  If you use the datasets, multi-agent framework,
+  annotation results, or analysis scripts from
+  this repository, please cite this research artifact.
+
+title: >-
+  Multi-Agent Programming Conversation Stopping:
+  Replication Package
+
+type: software
+
+authors:
+  - family-names: "Basu"
+    given-names: "Srijita"
+
+repository-code: "https://github.com/USERNAME/multi-agent-stopping-study"
+
+license: "MIT"
+
+keywords:
+  - Multi-Agent Systems
+  - Large Language Models
+  - Software Engineering
+  - Stopping Conditions
+  - Task Grounding
+  - Repetition Detection
+  - Human Annotation
+  - Reproducibility
